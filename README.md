@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/chris-jimenez-91136b306/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I’m a Computer Science major at The University of Texas at San Antonio with a strong foundation in programming, networking, and cybersecurity. My background includes hands-on experience in IT support, makerspace innovation, and STEM initiatives that fuel my passion for building secure and efficient technology solutions.
+I’m a Computer Science major at The University of Texas at San Antonio with practical experience in IT support, makerspace innovation, and STEM collaboration. I’m passionate about leveraging my skills in programming, networking, and cybersecurity to design secure and efficient technology solutions.
 
 ## Objective
 
