@@ -36,5 +36,5 @@ To leverage my technical skills in programming, networking, and cybersecurity to
 </div>
 
 ## Projects
-- Projects
-- :)
+- <a href="https://github.com/CypherChris-007/SchoolAministrationSystem"> SchoolAministrationSystem
+
