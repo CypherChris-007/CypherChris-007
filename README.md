@@ -12,7 +12,7 @@ To leverage my technical skills in programming, networking, and cybersecurity to
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| C/C++, Java          | Student Grade Tracker (C++) |
+| C/C++, Java          | <a href="https://github.com/CypherChris-007/Menu-Driven-C-Program"> Menu-Driven-C-Program |
 | Network configuration, troubleshooting, Active Directory, Windows Server management | Campus Helpdesk Support System|
 | 3D printing, CAD modeling, soldering, hardware troubleshooting         | Custom 3D Printed Components |
 | Team leadership, project documentation, technical presentation     | <a href="https://www.alamo.edu/nvc/academics/plus-stem/"> PLUS+ STEM Collaborative Workshop|
