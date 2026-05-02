@@ -30,7 +30,7 @@ To apply my skills in programming, system administration, and design tooling to 
 | OOP, UML Design, SDLC, File I/O | <a href="https://github.com/CypherChris-007">Aid Ship Coordinator</a> |
 | Active Directory, Microsoft 365, ITIL, LAN Troubleshooting | Campus Helpdesk Support |
 | CAD Modeling, 3D Printing, Iterative Prototyping | Custom 3D Printed Components |
-| Git/GitHub, Branching, Pull Requests, Team Collaboration | <a href="https://github.com/CypherChris-007">DomoDomo Task Manager</a> |
+| Git/GitHub, Branching, Pull Requests, Team Collaboration | <a href="https://github.com/UTSA-CS-3443/DomoDomo">DomoDomo Task Manager</a> |
 
 ---
 
@@ -38,49 +38,41 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ### 💻 Languages
 
-<div>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</div>
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="48" />
+  <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" width="48" />
+</p>
 
 ### 🖥️ IDEs & Dev Tools
 
-<div>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-</div>
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" width="48" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="48" />
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
+</p>
 
 ### 🔧 IT & Systems
 
-<div>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows 10/11" width="48" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote_Desktop-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Footprints-FF6600?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-<br>
+</p>
 
 ### 🎨 Design & Fabrication
 
-<div>
+<p>
+  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="48" />
   <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/3D_Printing-1BBAFF?style=for-the-badge&logo=printables&logoColor=white" />
-</div>
+</p>
 
 ---
 
@@ -88,7 +80,7 @@ To apply my skills in programming, system administration, and design tooling to 
 
 <div>
   <a href="https://www.utsa.edu/" target="_blank">
-    <img src="https://img.shields.io/badge/UTSA-B.S._Computer_Science-FF7F00?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+    <img src="https://img.shields.io/badge/UTSA-B.S._Computer_Science-FF7F00?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.alamo.edu/nvc/" target="_blank">
     <img src="https://img.shields.io/badge/NVC-A.S._Computer_Science_(Cum_Laude)-6A1B9A?style=for-the-badge&logoColor=white" />
@@ -104,40 +96,55 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ## 💻 Projects
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/projects-banner.svg" alt="Featured Projects" width="100%" />
+</div>
+
+<br>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 School Administration System</h3>
+      <p>Java-based administration system applying full OOP principles and structured data management.</p>
       <a href="https://github.com/CypherChris-007/SchoolAministrationSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CypherChris-007&repo=SchoolAministrationSystem&theme=tokyonight&hide_border=true" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=java" width="36" title="Java" />
+      <img src="https://skillicons.dev/icons?i=idea" width="36" title="IntelliJ" />
       <img src="https://img.shields.io/badge/OOP-007396?style=flat-square&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🖩 Menu-Driven C++ App</h3>
+      <p>8-module console application — GPA converter, payroll calculator, contact management & more. 15+ user-defined functions with UML-designed class structure.</p>
       <a href="https://github.com/CypherChris-007/Menu-Driven-C-Program">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CypherChris-007&repo=Menu-Driven-C-Program&theme=tokyonight&hide_border=true" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="36" title="C++" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="36" title="Visual Studio" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🐾 DomoDomo Task Manager</h3>
       <p>Gamified JavaFX task manager with Tamagotchi-style feedback, CRUD operations, and Git-based team workflow across a 5-month SDLC cycle.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <a href="https://github.com/UTSA-CS-3443/DomoDomo">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=java" width="36" title="Java" />
+      <img src="https://skillicons.dev/icons?i=idea" width="36" title="IntelliJ" />
+      <img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub" />
       <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🚢 Aid Ship Coordinator</h3>
       <p>Java GUI app managing a humanitarian aid fleet loaded from CSV data. Built with abstract classes, interfaces, UML hierarchy, and BufferedReader/Writer file I/O.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=java" width="36" title="Java" />
+      <img src="https://skillicons.dev/icons?i=idea" width="36" title="IntelliJ" />
       <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/UML-FF6600?style=flat-square&logoColor=white" />
     </td>
