@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:Chris.Jimenez3@my.utsa.edu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email_Me-Chris.Jimenez3%40my.utsa.edu-FF7F00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
@@ -56,6 +56,28 @@ To apply my skills in programming, system administration, and design tooling to 
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
 </p>
 
+#### JavaFX & SceneBuilder
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" title="JavaFX" width="48" />
+  <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderIcon.png" title="SceneBuilder" width="48" />
+</p>
+
+### 🎨 Design & Fabrication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" />
+  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="48" />
+  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+### 🖨️ 3D Fabrication Software
+
+<p>
+  <img src="https://img.shields.io/badge/Bambu_Studio-1BBAFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMxQkJBRkYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QjwvdGV4dD48L3N2Zz4=&logoColor=white" title="Bambu Studio" />
+  <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMEFFRUYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QzwvdGV4dD48L3N2Zz4=&logoColor=white" title="Ultimaker Cura" />
+</p>
+
 ### 🔧 IT & Systems
 
 <p>
@@ -64,14 +86,6 @@ To apply my skills in programming, system administration, and design tooling to 
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote_Desktop-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Footprints-FF6600?style=for-the-badge&logoColor=white" />
-</p>
-
-### 🎨 Design & Fabrication
-
-<p>
-  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="48" />
-  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D_Printing-1BBAFF?style=for-the-badge&logo=printables&logoColor=white" />
 </p>
 
 ---
