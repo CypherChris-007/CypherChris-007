@@ -111,9 +111,7 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ## 💻 Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/projects-banner.svg" alt="Featured Projects" width="100%" />
-</div>
+<img width="1866" height="337" alt="Image" src="https://github.com/user-attachments/assets/881af6ff-3d02-4e29-ab85-9509c0f94728" />
 
 <br>
 
