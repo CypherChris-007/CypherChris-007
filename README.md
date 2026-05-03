@@ -56,11 +56,12 @@ To apply my skills in programming, system administration, and design tooling to 
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
 </p>
 
-#### JavaFX & SceneBuilder
+#### ☕ JavaFX Ecosystem
 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" title="JavaFX" width="48" />
-  <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderIcon.png" title="SceneBuilder" width="48" />
+  <img src="https://raw.githubusercontent.com/SceneBuilderPark/SceneBuilder/master/apps/scenebuilder/SceneBuilderApp/src/main/resources/com/oracle/javafx/scenebuilder/app/images/scenebuilder-logo.png" title="Scene Builder" width="48" />
+  <img src="https://gluonhq.com/wp-content/uploads/2018/05/gluon_sq.png" title="Gluon" width="48" />
 </p>
 
 ### 🎨 Design & Fabrication
