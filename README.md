@@ -58,12 +58,9 @@ To apply my skills in programming, system administration, and design tooling to 
 
 #### ☕ JavaFX Ecosystem
 
-#### ☕ JavaFX Ecosystem
-
 <p>
-  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/javafx.png" title="JavaFX" width="48" />
-  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/scenebuilder.png" title="Scene Builder" width="48" />
-  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/gluon.png" title="Gluon" width="48" />
+<img width="120" height="50" alt="Image" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" />
+  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" />
 </p>
 
 ### 🎨 Design & Fabrication
