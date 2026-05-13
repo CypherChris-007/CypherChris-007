@@ -58,10 +58,12 @@ To apply my skills in programming, system administration, and design tooling to 
 
 #### ☕ JavaFX Ecosystem
 
+#### ☕ JavaFX Ecosystem
+
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" title="JavaFX" width="48" />
-  <img src="https://raw.githubusercontent.com/SceneBuilderPark/SceneBuilder/master/apps/scenebuilder/SceneBuilderApp/src/main/resources/com/oracle/javafx/scenebuilder/app/images/scenebuilder-logo.png" title="Scene Builder" width="48" />
-  <img src="https://gluonhq.com/wp-content/uploads/2018/05/gluon_sq.png" title="Gluon" width="48" />
+  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/javafx.png" title="JavaFX" width="48" />
+  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/scenebuilder.png" title="Scene Builder" width="48" />
+  <img src="https://raw.githubusercontent.com/CypherChris-007/CypherChris-007/main/assets/icons/gluon.png" title="Gluon" width="48" />
 </p>
 
 ### 🎨 Design & Fabrication
@@ -170,6 +172,7 @@ To apply my skills in programming, system administration, and design tooling to 
 
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
