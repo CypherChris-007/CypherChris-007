@@ -59,8 +59,8 @@ To apply my skills in programming, system administration, and design tooling to 
 #### ☕ JavaFX Ecosystem
 
 <p>
-<img width="120" height="50" alt="Image" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" />
-  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" />
+<img width="120" height="50" alt="Image" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" title="JavaFX"/>
+  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" title="Scene Builder"/>
 </p>
 
 ### 🎨 Design & Fabrication
@@ -74,7 +74,7 @@ To apply my skills in programming, system administration, and design tooling to 
 ### 🖨️ 3D Fabrication Software
 
 <p>
-  <img src="https://img.shields.io/badge/Bambu_Studio-1BBAFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMxQkJBRkYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QjwvdGV4dD48L3N2Zz4=&logoColor=white" title="Bambu Studio" />
+<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/b0be5d7c-4460-4e78-af7e-fe48491092df" title="Bambu Studio" />
   <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMEFFRUYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QzwvdGV4dD48L3N2Zz4=&logoColor=white" title="Ultimaker Cura" />
 </p>
 
