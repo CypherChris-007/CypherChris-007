@@ -1,6 +1,6 @@
 # Hello, I'm Chris 👨‍💻
 
-<a href="https://www.linkedin.com/in/chrisjimenezcs" target="_blank">
+<a href="https://www.linkedin.com/in/chris-jimenez-91136b306" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/CypherChris-007" target="_blank">
@@ -8,6 +8,12 @@
 </a>
 <a href="mailto:Chris.Jimenez3@my.utsa.edu">
   <img src="https://img.shields.io/badge/Email_Me-Chris.Jimenez3%40my.utsa.edu-FF7F00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@ChrisCodesIRL" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://app.joinhandshake.com/profiles/chris-tech" target="_blank">
+  <img src="https://img.shields.io/badge/Handshake-E8233A?style=for-the-badge&logo=handshake&logoColor=white" />
 </a>
 
 ---
@@ -20,6 +26,8 @@ I'm a Computer Science student at **The University of Texas at San Antonio** wit
 
 To apply my skills in programming, system administration, and design tooling to contribute to innovative tech projects — while continuing to grow as a developer focused on clean code, efficient systems, and real-world problem solving.
 
+> 🔭 Currently exploring cybersecurity fundamentals and expanding my systems programming skills.
+
 ---
 
 ## 🛠️ Skills
@@ -27,7 +35,7 @@ To apply my skills in programming, system administration, and design tooling to 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
 | C/C++, Java, JavaFX | <a href="https://github.com/CypherChris-007/Menu-Driven-C-Program">Menu-Driven C Program</a> |
-| OOP, UML Design, SDLC, File I/O | <a href="https://github.com/CypherChris-007">Aid Ship Coordinator</a> |
+| OOP, UML Design, SDLC, File I/O | <a href="https://github.com/CypherChris-007/SchoolAdministrationSystem">Aid Ship Coordinator</a> |
 | Active Directory, Microsoft 365, ITIL, LAN Troubleshooting | Campus Helpdesk Support |
 | CAD Modeling, 3D Printing, Iterative Prototyping | Custom 3D Printed Components |
 | Git/GitHub, Branching, Pull Requests, Team Collaboration | <a href="https://github.com/UTSA-CS-3443/DomoDomo">DomoDomo Task Manager</a> |
@@ -36,57 +44,52 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ## 🧰 Tools
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" />
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="48" />
-  <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" width="48" />
-</p>
-
-### 🖥️ IDEs & Dev Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" width="48" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="48" />
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" width="48" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
-</p>
-
-#### ☕ JavaFX Ecosystem
-
-<p>
-<img width="120" height="50" alt="Image" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" title="JavaFX"/>
-  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" title="Scene Builder"/>
-</p>
-
-### 🎨 Design & Fabrication
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" />
-  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="48" />
-  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
-
-### 🖨️ 3D Fabrication Software
-
-<p>
-<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/b0be5d7c-4460-4e78-af7e-fe48491092df" title="Bambu Studio" />
-  <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMEFFRUYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QzwvdGV4dD48L3N2Zz4=&logoColor=white" title="Ultimaker Cura" />
-</p>
-
-### 🔧 IT & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows 10/11" width="48" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote_Desktop-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Footprints-FF6600?style=for-the-badge&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>💻 Languages</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
+      <img src="https://skillicons.dev/icons?i=c" title="C" width="40" />
+      <img src="https://skillicons.dev/icons?i=java" title="Java" width="40" />
+      <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="40" />
+      <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" width="40" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>🖥️ IDEs & Dev Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" width="40" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="40" />
+      <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" width="40" />
+      <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" />
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>☕ JavaFX Ecosystem</strong><br><br>
+      <img width="100" height="44" alt="JavaFX" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" title="JavaFX"/>
+      <img width="60" height="44" alt="Scene Builder" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" title="Scene Builder"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🎨 Design & Fabrication</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40" />
+      <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="40" />
+      <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>🖨️ 3D Fabrication</strong><br><br>
+      <img width="36" height="36" alt="Bambu Studio" src="https://github.com/user-attachments/assets/b0be5d7c-4460-4e78-af7e-fe48491092df" title="Bambu Studio" />
+      <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMEFFRUYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QzwvdGV4dD48L3N2Zz4=&logoColor=white" title="Ultimaker Cura" />
+    </td>
+    <td valign="top">
+      <strong>🔧 IT & Systems</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=windows" title="Windows 10/11" width="40" />
+      <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+      <img src="https://img.shields.io/badge/Remote_Desktop-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Footprints-FF6600?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,8 +111,6 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ---
 
-## 💻 Projects
-
 <img width="1866" height="337" alt="Image" src="https://github.com/user-attachments/assets/881af6ff-3d02-4e29-ab85-9509c0f94728" />
 
 <br>
@@ -119,7 +120,7 @@ To apply my skills in programming, system administration, and design tooling to 
     <td width="50%" valign="top">
       <h3>🏫 School Administration System</h3>
       <p>Java-based administration system applying full OOP principles and structured data management.</p>
-      <a href="https://github.com/CypherChris-007/SchoolAministrationSystem">
+      <a href="https://github.com/CypherChris-007/SchoolAdministrationSystem">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
@@ -167,10 +168,44 @@ To apply my skills in programming, system administration, and design tooling to 
 
 ## 📊 GitHub Stats
 
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherChris-007&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      <br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" width="100%" />
+    </td>
+    <td valign="top" width="35%">
+      <h4>🎯 Current Focus</h4>
+      <br>
+      <img src="https://img.shields.io/badge/🔐_Cybersecurity-0078D4?style=flat-square&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/⚙️_Systems_Programming-FF6600?style=flat-square&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/🎓_B.S._CS_@_UTSA-FF7F00?style=flat-square&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/🌐_Open_Source-3fb950?style=flat-square&logoColor=white" />
+      <br><br>
+      <h4>📡 Connect</h4>
+      <br>
+      <a href="https://www.youtube.com/@ChrisCodesIRL" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-@ChrisCodesIRL-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+      </a><br>
+      <a href="https://app.joinhandshake.com/profiles/chris-tech" target="_blank">
+        <img src="https://img.shields.io/badge/Handshake-chris--tech-E8233A?style=flat-square&logo=handshake&logoColor=white" />
+      </a><br>
+      <a href="https://www.linkedin.com/in/chris-jimenez-91136b306" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-chris--jimenez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+      <br><br>
+      <h4>⚡ Quick Stats</h4>
+      <br>
+      <img src="https://img.shields.io/badge/Repos-9-181717?style=flat-square&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Language-Java_%7C_C++-007396?style=flat-square&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Streak-3_days-FF7F00?style=flat-square&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Contributions-50-3fb950?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
