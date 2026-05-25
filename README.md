@@ -41,9 +41,7 @@ To apply my skills in programming, system administration, and design tooling to 
 | Git/GitHub, Branching, Pull Requests, Team Collaboration | <a href="https://github.com/UTSA-CS-3443/DomoDomo">DomoDomo Task Manager</a> |
 
 ---
-
-## 🧰 Tools
-
+🧰 Tools
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -91,10 +89,7 @@ To apply my skills in programming, system administration, and design tooling to 
   </tr>
 </table>
 
----
-
-## 🎓 Education & Certifications
-
+🎓 Education & Certifications
 <div>
   <a href="https://www.utsa.edu/" target="_blank">
     <img src="https://img.shields.io/badge/UTSA-B.S._Computer_Science-FF7F00?style=for-the-badge&logoColor=white" />
@@ -109,12 +104,9 @@ To apply my skills in programming, system administration, and design tooling to 
   <img src="https://img.shields.io/badge/CompTIA_Student_Chapter-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
----
-
+💻 Projects
 <img width="1866" height="337" alt="Image" src="https://github.com/user-attachments/assets/881af6ff-3d02-4e29-ab85-9509c0f94728" />
-
 <br>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -164,20 +156,35 @@ To apply my skills in programming, system administration, and design tooling to 
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
+<!-- Typing SVG banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%40+UTSA;Java+%7C+C%2B%2B+%7C+Systems+Programmer;IT+Support+%7C+Makerspace+Innovator;Always+building+something+new..." alt="Typing SVG" />
+</div>
+<br>
 <table>
   <tr>
+    <!-- LEFT: main stat widgets -->
     <td valign="top" width="65%">
       <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherChris-007&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&exclude_repo=CypherChris-007"
+        width="100%"
+        alt="Top Languages"
+      />
       <br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" width="100%" />
     </td>
+    <!-- RIGHT: enriched side panel -->
     <td valign="top" width="35%">
+      <!-- GitHub Stats card INSIDE the side panel -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+        width="100%"
+        alt="GitHub Stats"
+      />
+      <br><br>
       <h4>🎯 Current Focus</h4>
       <br>
       <img src="https://img.shields.io/badge/🔐_Cybersecurity-0078D4?style=flat-square&logoColor=white" /><br>
@@ -197,17 +204,10 @@ To apply my skills in programming, system administration, and design tooling to 
         <img src="https://img.shields.io/badge/LinkedIn-chris--jimenez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
       </a>
       <br><br>
-      <h4>⚡ Quick Stats</h4>
-      <br>
-      <img src="https://img.shields.io/badge/Repos-9-181717?style=flat-square&logo=github&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Language-Java_%7C_C++-007396?style=flat-square&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Streak-3_days-FF7F00?style=flat-square&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Contributions-50-3fb950?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
----
+<!-- STEP 5: Contribution snake — paste the block below once you complete Step 6 (snake.yml Action) -->
+<!-- DELETE this comment line and the next one once the snake is working -->
+<!-- SNAKE GOES HERE — see setup guide below -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CypherChris-007&color=0e75b6&style=for-the-badge&label=Profile+Views" />
