@@ -169,9 +169,9 @@ To apply my skills in programming, system administration, and design tooling to 
       <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="100%" />
       <br><br>
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
   width="100%"
-  alt="Top Languages"
+  alt="GitHub Stats"
 />
       <br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" width="100%" />
@@ -180,7 +180,7 @@ To apply my skills in programming, system administration, and design tooling to 
     <td valign="top" width="35%">
       <!-- GitHub Stats card INSIDE the side panel -->
       <img
-        src="https://https://vercel.com/chris-projectscontorl/github-readme-stats/2QY5UJosRK8NXFtNxaMtdvYsoVPB/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+        src="https://github-readme-stats-sepia-one-30.vercel.app/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&exclude_repo=CypherChris-007"
         width="100%"
         alt="GitHub Stats"
       />
