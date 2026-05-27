@@ -169,7 +169,7 @@ To apply my skills in programming, system administration, and design tooling to 
       <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="100%" />
       <br><br>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats-sepia-one-30.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
   width="100%"
   alt="GitHub Stats"
 />
