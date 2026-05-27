@@ -168,11 +168,11 @@ To apply my skills in programming, system administration, and design tooling to 
     <td valign="top" width="65%">
       <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="100%" />
       <br><br>
-      <img
-        src="https://https://vercel.com/chris-projectscontorl/github-readme-stats/2QY5UJosRK8NXFtNxaMtdvYsoVPB/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&exclude_repo=CypherChris-007"
-        width="100%"
-        alt="Top Languages"
-      />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true"
+  width="100%"
+  alt="Top Languages"
+/>
       <br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" width="100%" />
     </td>
