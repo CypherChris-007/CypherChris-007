@@ -40,52 +40,52 @@ To apply my skills in programming, system administration, and design tooling to 
 | CAD Modeling, 3D Printing, Iterative Prototyping | Custom 3D Printed Components |
 | Git/GitHub, Branching, Pull Requests, Team Collaboration | <a href="https://github.com/UTSA-CS-3443/DomoDomo">DomoDomo Task Manager</a> |
 
-
 ---
-🧰 Tools
+## 🧰 Tools
+
 <table>
   <tr>
     <td valign="top" width="33%">
       <strong>💻 Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
-      <img src="https://skillicons.dev/icons?i=c" title="C" width="40" />
-      <img src="https://skillicons.dev/icons?i=java" title="Java" width="40" />
-      <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="40" />
-      <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" width="40" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     </td>
     <td valign="top" width="33%">
       <strong>🖥️ IDEs & Dev Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" width="40" />
-      <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="40" />
-      <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" width="40" />
-      <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" />
-      <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td valign="top" width="33%">
       <strong>☕ JavaFX Ecosystem</strong><br><br>
-      <img width="100" height="44" alt="JavaFX" src="https://github.com/user-attachments/assets/f541fd63-c953-455f-8ab6-9f8602c15d51" title="JavaFX"/>
-      <img width="60" height="44" alt="Scene Builder" src="https://github.com/user-attachments/assets/8e9c15d5-0555-4e0b-b27f-71f4328a27c8" title="Scene Builder"/>
+      <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scene_Builder-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <strong>🎨 Design & Fabrication</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40" />
-      <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" width="40" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
       <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
     </td>
     <td valign="top">
       <strong>🖨️ 3D Fabrication</strong><br><br>
-      <img width="36" height="36" alt="Bambu Studio" src="https://github.com/user-attachments/assets/b0be5d7c-4460-4e78-af7e-fe48491092df" title="Bambu Studio" />
-      <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMEFFRUYiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+QzwvdGV4dD48L3N2Zz4=&logoColor=white" title="Ultimaker Cura" />
+      <img src="https://img.shields.io/badge/Bambu_Studio-00AE42?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ultimaker_Cura-00AEEF?style=for-the-badge&logoColor=white" />
     </td>
     <td valign="top">
       <strong>🔧 IT & Systems</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=windows" title="Windows 10/11" width="40" />
+      <img src="https://img.shields.io/badge/Windows_10/11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
       <img src="https://img.shields.io/badge/Remote_Desktop-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Footprints-FF6600?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/FootPrints-FF6600?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
 </table>
