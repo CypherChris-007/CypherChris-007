@@ -97,12 +97,8 @@ To apply my skills in programming, system administration, and design tooling to 
   </a>
   <a href="https://www.alamo.edu/nvc/" target="_blank">
     <img src="https://img.shields.io/badge/NVC-A.S._Computer_Science_(Cum_Laude)-6A1B9A?style=for-the-badge&logoColor=white" />
-  </a>
-</div>
-<div>
   <img src="https://img.shields.io/badge/PLUS+_STEM_Certificate-4CAF50?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NSLS_Honor_Society-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA_Student_Chapter-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
 💻 Projects
