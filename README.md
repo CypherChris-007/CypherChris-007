@@ -216,7 +216,7 @@ A Java-based administration system applying full OOP principles and structured d
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api/top-langs/?username=CypherChris-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&bg_color=1a1b27&color=7c3aed&line=4f46e5&point=a78bfa&area=true&hide_border=true" width="87%" />
 </div>
 
 ---
