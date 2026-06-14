@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B21B6,4F46E5,6D28D9&height=180&section=header&text=Chris%20Jimenez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Programmer%20%7C%20IT%20Professional&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B21B6,4F46E5,6D28D9&height=180&section=header&text=Chris%20Jimenez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Programmer%20%7C%20IT%20Intern&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <div align="center">
@@ -22,27 +22,30 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chris-jimenez-91136b306">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+  <a href="https://www.linkedin.com/in/chris-jimenez-91136b306" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:Chris.Jimenez3@my.utsa.edu">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach_Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/CypherChris-007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-CypherChris--007-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@ChrisCodesIRL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@ChrisCodesIRL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://app.joinhandshake.com/profiles/chris-tech" target="_blank">
+    <img src="https://img.shields.io/badge/Handshake-View_Profile-E8233A?style=for-the-badge&logo=handshake&logoColor=white" />
   </a>
-  <a href="https://github.com/CypherChris-007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@ChrisCodesIRL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://app.joinhandshake.com/profiles/chris-tech">
-    <img src="https://img.shields.io/badge/Handshake-E8233A?style=for-the-badge&logo=handshake&logoColor=white" />
-  </a>
+
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CypherChris-007&color=7C3AED&style=flat-square&label=Profile+Views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/CypherChris-007?style=flat-square&color=4F46E5&label=Followers" />
 </div>
 
@@ -176,35 +179,6 @@ A Java-based administration system applying full OOP principles and structured d
 
 ---
 
-## Experience
-
-### IT Helpdesk Intern — Northwest Vista College
-**Jun 2024 – Dec 2024 · San Antonio, TX**
-
-Delivered tier-1/2 IT support for a campus of 200+ users, operating within an ITIL-aligned framework across Microsoft 365 and Active Directory.
-
-- Achieved **90% first-contact resolution** across 200+ user interactions by applying ITIL-aligned troubleshooting and FootPrints ticketing to prioritize and close incidents systematically
-- Strengthened network security for **200+ Active Directory accounts** by enforcing access control policies, managing user provisioning, and aligning changes with M365 administrative guidelines
-- **Reduced recurring support tickets an estimated 30%** by authoring standardized technical documentation covering Windows 10/11 and BIOS issue resolution using Markdown and terminal-based tooling
-- Maintained campus-wide classroom technology uptime through on-site BIOS updates, hardware retrieval, and systematic equipment audits
-
-`Active Directory` `Microsoft 365` `ITIL` `FootPrints` `LAN Troubleshooting` `Technical Documentation`
-
----
-
-### Makerspace Intern — Northwest Vista College
-**Dec 2024 – Jun 2025 · San Antonio, TX**
-
-Supported STEM education through hands-on fabrication mentorship, equipment maintenance, and end-to-end hardware project delivery.
-
-- Increased student project completion rates by guiding **20+ students, staff, and faculty weekly** through 3D printing workflows, motion capture demonstrations, and iterative prototyping design thinking
-- Reduced equipment downtime by proactively diagnosing 3D printer malfunctions using systematic troubleshooting methodology
-- Delivered a **full-cycle capstone 3D print project** — from CAD modeling in Fusion 360 to final output — following an SDLC-aligned iterative approach, meeting design accuracy and usability benchmarks
-
-`Fusion 360` `AutoCAD` `3D Printing` `SDLC` `Bambu Studio` `Iterative Prototyping`
-
----
-
 ## Achievements
 
 <div align="center">
@@ -235,15 +209,14 @@ Supported STEM education through hands-on fabrication mentorship, equipment main
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api/top-langs/?username=CypherChris-007&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" width="36%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&theme=tokyo-night&hide_border=true" width="62%" />
+  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api/top-langs/?username=CypherChris-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="165" />
 </div>
 
 ---
@@ -252,14 +225,6 @@ Supported STEM education through hands-on fabrication mentorship, equipment main
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CypherChris-007&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherChris-007&bg_color=1a1b27&color=7c3aed&line=4f46e5&point=a78bfa&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -298,22 +263,6 @@ open_to:
   - IT engineering and systems administration roles
   - Developer community and open source collaboration
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 📧 Email | [Chris.Jimenez3@my.utsa.edu](mailto:Chris.Jimenez3@my.utsa.edu) |
-| 💼 LinkedIn | [linkedin.com/in/chris-jimenez-91136b306](https://www.linkedin.com/in/chris-jimenez-91136b306) |
-| 🐙 GitHub | [github.com/CypherChris-007](https://github.com/CypherChris-007) |
-| 📺 YouTube | [@ChrisCodesIRL](https://www.youtube.com/@ChrisCodesIRL) |
-| 🤝 Handshake | [joinhandshake.com/profiles/chris-tech](https://app.joinhandshake.com/profiles/chris-tech) |
-
-</div>
 
 ---
 
