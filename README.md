@@ -216,7 +216,7 @@ I bring two internships of hands-on IT experience — high-volume helpdesk resol
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CypherChris-007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
-  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-sepia-one-30.vercel.app/api?username=CypherChris-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&cb=2" height="165" />
 </div>
 
 <br>
